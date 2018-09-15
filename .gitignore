@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+#Code editor and IDE files
+.idea/
+.idea

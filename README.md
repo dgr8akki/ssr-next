@@ -1,2 +1,2 @@
-# ssr-next
-serverside rendering using next.js
+# SSR-next
+Server-side rendering using next.js
